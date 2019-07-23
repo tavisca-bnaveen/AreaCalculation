@@ -7,7 +7,7 @@
         {
             this.radius = radius;
         }
-        public double Area()
+        public double CalucateArea()
         {
             return radius * radius * 22/7;
         }

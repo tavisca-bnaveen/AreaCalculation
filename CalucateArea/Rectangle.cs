@@ -10,7 +10,7 @@ namespace CalucateArea
             this.length = length;
             this.breadth = breadth;
         }
-        public double Area()
+        public double CalucateArea()
         {
             return (length * breadth);
         }

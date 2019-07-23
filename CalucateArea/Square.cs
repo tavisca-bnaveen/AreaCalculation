@@ -9,7 +9,7 @@ namespace CalucateArea
         {
             this.side = side;
         }
-        public double Area()
+        public double CalucateArea()
         {
             return (side * side);
         }

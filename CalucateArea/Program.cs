@@ -11,7 +11,7 @@ namespace CalucateArea
             Rectangle rectangle = new Rectangle(4, 5);
             Circle circle = new Circle(5);
             Triangle triangle = new Triangle(4,5);
-            Console.WriteLine(circle.Area());
+            Console.WriteLine(circle.CalucateArea());
             Console.ReadKey();
         }
     }
